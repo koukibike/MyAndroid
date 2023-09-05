@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyAndroid</string>
+    <string name = "my_name">kouki</string>
 </resources>
